@@ -23,9 +23,12 @@ Bu proje aşağıdaki temel mekanikleri içermektedir:
 ## 📸 Ekran Görüntüleri
 
 Oyunun atmosferini ve mekaniklerini gösteren bazı görseller:
-| ![Ana Menü](images/img-1.png) | ![Oynanış 1](images/img-2.png) |
-| ![Ana Menü](images/img-3.png) | ![Oynanış 1](images/img-4.png) |
-| ![Ana Menü](images/img-5.png) | ![Oynanış 1](images/img-6.png) |
+
+| | |
+|:---:|:---:|
+| ![Görsel 1](images/img-1.png) | ![Görsel 2](images/img-2.png) |
+| ![Görsel 3](images/img-3.png) | ![Görsel 4](images/img-4.png) |
+| ![Görsel 5](images/img-5.png) | ![Görsel 6](images/img-6.png) |
 
 
 ## 🕹️ Kontroller
