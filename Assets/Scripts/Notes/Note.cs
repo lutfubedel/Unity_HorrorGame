@@ -50,7 +50,7 @@ public class Note : MonoBehaviour
         new NoteType {
             id= 6,
             title = "Ölemeyenler",
-            message = "Burada kimse ölmez. Ýlaçlar, iðneler, baðlamalar... hiçbiri iþe yaramýyor. Ben üç kere öldüm ama sabah kendimi yataðýmda buldum. Neden hâlâ buradayým?"
+            message = "Burada kimse ölmez. Ýlaclar, igneler, baglamalar... hicbiri ide yaramiyor. Ben üç kere öldüm ama sabah kendimi yatagýmda buldum. Neden hâlâ buradayým?"
         },
 
         new NoteType {
