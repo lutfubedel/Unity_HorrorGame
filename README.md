@@ -1,8 +1,5 @@
 # 🏥 Unity Horror Game: The Asylum
 
-![Banner Görseli](https://via.placeholder.com/1000x300?text=Oyun+Banner+Gorseli+Buraya)
-> *Unity 3D ile geliştirilmiş, terk edilmiş bir akıl hastanesinde geçen hayatta kalma temalı FPS korku oyunu.*
-
 ## 📖 Proje Hakkında
 
 Bu proje, Unity Oyun Motoru kullanılarak geliştirilmiş **Birinci Şahıs Nişancı (FPS)** türünde bir korku oyunudur. Oyuncu, karanlık sırlarla dolu terk edilmiş bir akıl hastanesinde uyanır ve buradan kaçmaya çalışırken hem bulmacaları çözmeli hem de peşindeki varlıklarla mücadele etmelidir.
