@@ -23,16 +23,9 @@ Bu proje aşağıdaki temel mekanikleri içermektedir:
 ## 📸 Ekran Görüntüleri
 
 Oyunun atmosferini ve mekaniklerini gösteren bazı görseller:
-
-| Ana Menü | Oynanış - Koridor |
-| :---: | :---: |
 | ![Ana Menü](https://via.placeholder.com/400x225?text=Ana+Menu+Gorseli) | ![Oynanış 1](https://via.placeholder.com/400x225?text=Koridor+Gorseli) |
-
-| Çatışma Anı | Not Okuma Ekranı |
-| :---: | :---: |
 | ![Çatışma](https://via.placeholder.com/400x225?text=Catisma+Gorseli) | ![Not Sistemi](https://via.placeholder.com/400x225?text=Not+Okuma+Gorseli) |
 
-*(Not: Görseller geliştirme aşamasından alınmıştır.)*
 
 ## 🕹️ Kontroller
 
@@ -43,17 +36,15 @@ Oyunun atmosferini ve mekaniklerini gösteren bazı görseller:
 | **Sol Tık** | Ateş Etme |
 | **Sağ Tık** | Nişan Alma |
 | **R** | Şarjör Değiştirme (Reload) |
-| **E** | Etkileşim (Kapı Açma / Not Alma) |
-| **F** | El Feneri Aç/Kapa |
+| **E** | Etkileşim (Kapı Açma / Eşya Toplama) |
 | **Shift** | Koşma |
-| **ESC** | Durdurma Menüsü |
 
 ## 🛠️ Kullanılan Teknolojiler
 
 - **Oyun Motoru:** Unity 2021.3 (veya senin sürümün neyse onu yaz)
 - **Dil:** C#
 - **AI:** Unity NavMesh
-- **Grafik:** URP (Universal Render Pipeline) / Standart Pipeline
+- **Grafik:** Standart Pipeline
 - **IDE:** Visual Studio
 
 ## 🚀 Kurulum
