@@ -23,8 +23,12 @@ Bu proje aşağıdaki temel mekanikleri içermektedir:
 ## 📸 Ekran Görüntüleri
 
 Oyunun atmosferini ve mekaniklerini gösteren bazı görseller:
-| ![Ana Menü](https://via.placeholder.com/400x225?text=Ana+Menu+Gorseli) | ![Oynanış 1](https://via.placeholder.com/400x225?text=Koridor+Gorseli) |
-| ![Çatışma](https://via.placeholder.com/400x225?text=Catisma+Gorseli) | ![Not Sistemi](https://via.placeholder.com/400x225?text=Not+Okuma+Gorseli) |
+
+| | |
+|:---:|:---:|
+| ![Görsel 1](images/img-1.png) | ![Görsel 2](images/img-2.png) |
+| ![Görsel 3](images/img-3.png) | ![Görsel 4](images/img-4.png) |
+| ![Görsel 5](images/img-5.png) | ![Görsel 6](images/img-6.png) |
 
 
 ## 🕹️ Kontroller
