@@ -1,4 +1,4 @@
-# 🏥 Unity Horror Game: The Asylum
+# Unity Horror Game: The Asylum
 
 ## 📖 Proje Hakkında
 
