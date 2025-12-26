@@ -42,7 +42,7 @@ Oyunun atmosferini ve mekaniklerini gösteren bazı görseller:
 
 ## 🛠️ Kullanılan Teknolojiler
 
-- **Oyun Motoru:** Unity 2021.3 (veya senin sürümün neyse onu yaz)
+- **Oyun Motoru:** Unity 2021.3
 - **Dil:** C#
 - **AI:** Unity NavMesh
 - **Grafik:** Standart Pipeline
